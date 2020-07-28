@@ -5,4 +5,6 @@ cat("Hello Aliens.  This is a message for any intelligent life. \n
     specific conditions to maintain life. For example, we need a specific \n
     atmosphere, a variety of sustenance, and a specific range of temperatures \n 
     and pressures.  These requirements are naturally provided on Earth.  \n 
-    If this message is understood, please reply with any information about yourselves.\n")
+    If this message is understood, please reply with any information about yourselves.")
+
+
